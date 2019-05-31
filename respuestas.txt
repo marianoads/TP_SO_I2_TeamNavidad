@@ -1,0 +1,1 @@
+1- Con el comando git remote add -Nombre-    2- GAMMA no puede actualizar el fork al estado del fork de BBETA 3- Los datos no se pierden cuando actualizo el fork
